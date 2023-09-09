@@ -579,7 +579,7 @@ section {
 }
 
 .reviews .reviews-slider .box:hover{
-  border: :var(--border-hover);
+  border:var(--border-hover);
 }
 
 .reviews .reviews-slider .box img{
@@ -673,7 +673,7 @@ section {
   width: 100%;
 }
 
-.footer .share{.footer .share a
+.footer .share .footer .share a{
   padding: 1rem 0;
   text-align: center;
 }
