@@ -1,4 +1,4 @@
-/* Watched till 40:01 */
+/* Watched Complete video and finished style.css */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
 
 :root {
@@ -72,8 +72,6 @@ section {
   background: #fff;
   border: var(--border);
 }
-
-
 
 .btn {
   margin-top: 1rem;
@@ -689,7 +687,6 @@ section {
   border-radius: 50%;  
 }
 
-
 .footer .share a:hover{
   background: var(--black);
 }
@@ -727,14 +724,6 @@ section {
 .loader-container img{
   height: 10rem;
 }
-
-
-
-
-
-
-
-
 
 
 
