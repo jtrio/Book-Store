@@ -1,0 +1,42 @@
+Active Internet Connection
+
+CSS Files :
+1. https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
+2. https://unpkg.com/swiper@7/swiper-bundle.min.css
+
+
+JS Files :
+1. https://unpkg.com/swiper@7/swiper-bundle.min.js
+
+
+Images :
+book-1.png
+book-2.png
+book-3.png
+book-4.png
+book-5.png
+book-6.png
+book-7.png
+book-8.png
+book-9.png
+book-10.png
+stand.png
+pic-1.png
+pic-2.png
+pic-3.png
+pic-4.png
+pic-5.png
+pic-6.png
+worldmap.png
+
+deal-img.jpg
+blog-1.jpg
+blog-2.jpg
+blog-3.jpg
+blog-4.jpg
+blog-5.jpg
+banner-bg.jpg
+letter-bg.jpg
+
+
+loader-img.gif
